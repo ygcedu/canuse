@@ -1,0 +1,9 @@
+{
+  "name": "canuse",
+  "version": "0.1.0",
+  "description": "a javascript lib for custom develop",
+  "main": "index.js",
+  "repository": "git@github.com:ygcedu/canuse.git",
+  "author": "ygcedu <937601471@qq.com>",
+  "license": "MIT"
+}
